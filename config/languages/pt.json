@@ -1,0 +1,10 @@
+{
+    "need_axe": "Precisas de um machado para cortar madeira!",
+    "start_chopping": "Começar a Cortar",
+    "sell_wood": "Vender Madeira",
+    "sold_wood": "Vendeste %s madeira por %s€",
+    "sold_rare_wood": "Vendeste %s madeira rara por %s€",
+    "no_wood": "Não tens madeira para vender!",
+    "press_x_stop": "Pressiona X para parar de trabalhar",
+    "stopped_working": "Paraste de trabalhar"
+}

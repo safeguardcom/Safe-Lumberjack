@@ -1,0 +1,10 @@
+{
+    "need_axe": "You need an axe to chop wood!",
+    "start_chopping": "Start Chopping",
+    "sell_wood": "Sell Wood",
+    "sold_wood": "You sold %s wood for $%s",
+    "sold_rare_wood": "You sold %s rare wood for $%s",
+    "no_wood": "You don't have any wood to sell!",
+    "press_x_stop": "Press X to stop working",
+    "stopped_working": "You stopped working"
+}
